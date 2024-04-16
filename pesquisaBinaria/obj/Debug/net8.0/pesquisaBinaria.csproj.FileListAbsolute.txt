@@ -1,0 +1,15 @@
+/home/ventura/Workspace/learning/algoritmos/pesquisaBinaria/obj/Debug/net8.0/pesquisaBinaria.GeneratedMSBuildEditorConfig.editorconfig
+/home/ventura/Workspace/learning/algoritmos/pesquisaBinaria/obj/Debug/net8.0/pesquisaBinaria.AssemblyInfoInputs.cache
+/home/ventura/Workspace/learning/algoritmos/pesquisaBinaria/obj/Debug/net8.0/pesquisaBinaria.AssemblyInfo.cs
+/home/ventura/Workspace/learning/algoritmos/pesquisaBinaria/obj/Debug/net8.0/pesquisaBinaria.csproj.CoreCompileInputs.cache
+/home/ventura/Workspace/learning/algoritmos/pesquisaBinaria/obj/Debug/net8.0/pesquisaBinaria.sourcelink.json
+/home/ventura/Workspace/learning/algoritmos/pesquisaBinaria/bin/Debug/net8.0/pesquisaBinaria
+/home/ventura/Workspace/learning/algoritmos/pesquisaBinaria/bin/Debug/net8.0/pesquisaBinaria.deps.json
+/home/ventura/Workspace/learning/algoritmos/pesquisaBinaria/bin/Debug/net8.0/pesquisaBinaria.runtimeconfig.json
+/home/ventura/Workspace/learning/algoritmos/pesquisaBinaria/bin/Debug/net8.0/pesquisaBinaria.dll
+/home/ventura/Workspace/learning/algoritmos/pesquisaBinaria/bin/Debug/net8.0/pesquisaBinaria.pdb
+/home/ventura/Workspace/learning/algoritmos/pesquisaBinaria/obj/Debug/net8.0/pesquisaBinaria.dll
+/home/ventura/Workspace/learning/algoritmos/pesquisaBinaria/obj/Debug/net8.0/refint/pesquisaBinaria.dll
+/home/ventura/Workspace/learning/algoritmos/pesquisaBinaria/obj/Debug/net8.0/pesquisaBinaria.pdb
+/home/ventura/Workspace/learning/algoritmos/pesquisaBinaria/obj/Debug/net8.0/pesquisaBinaria.genruntimeconfig.cache
+/home/ventura/Workspace/learning/algoritmos/pesquisaBinaria/obj/Debug/net8.0/ref/pesquisaBinaria.dll
