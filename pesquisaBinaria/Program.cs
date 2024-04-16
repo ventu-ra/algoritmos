@@ -21,7 +21,7 @@ static int pesquisaBinaria(int[] lista, int item)
   return -1;
 }
 
-int[] lista = { 1, 3, 5, 7, 9 };
+int[] lista = [1, 3, 5, 7, 9];
 
 Console.WriteLine(pesquisaBinaria(lista, 3));
 Console.WriteLine(pesquisaBinaria(lista, -1));
