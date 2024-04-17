@@ -19,14 +19,10 @@ jobs:
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: 8.0.x
-      - name: Restore dependencies
-        run: dotnet restore
-      - name: Build
+
+      - name: Restore dependencies - Build and Test
         run: |
-          cd pesquisaBinaria
-          dotnet restore
-      - name: Test
-        run: |
-          cd pesquisaBinaria
-          dotnet build
-          dotnet test
+          cd pesquisaBinaria  # Navega para o diretório do projeto C#
+          dotnet restore      # Restaura as dependências
+          dotnet build        # Compila o projeto
+          dotnet test         # Executa os testes
